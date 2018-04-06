@@ -1,0 +1,19 @@
+{
+  "name": "ts-vue-cli",
+  "version": "1.0.0",
+  "description": "For Using TypeScript In Vue",
+  "main": "index.js",
+  "author": "ZhangChao",
+  "bin": {
+    "vuets": "bin/vuets.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.15.1",
+    "download-git-repo": "^1.0.2",
+    "superagent": "^3.8.2",
+    "ts-vue-cli": "file:./"
+  }
+}
