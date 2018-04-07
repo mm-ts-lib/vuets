@@ -1,8 +1,8 @@
 {
-  "name": "ts-vue-cli",
-  "version": "1.0.0",
-  "description": "For Using TypeScript In Vue",
-  "main": "index.js",
+  "name": "@tslib/vuets",
+  "version": "0.0.1",
+  "description": "TypeScript-based Vue",
+  "main": "bin/index.js",
   "author": "ZhangChao",
   "bin": {
     "vuets": "bin/vuets.js"
@@ -17,5 +17,27 @@
     "progress": "^2.0.0",
     "superagent": "^3.8.2",
     "ts-vue-cli": "file:./"
-  }
+  },
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mm-ts-lib/vuets.git"
+  },
+  "keywords": [
+    "vue",
+    "TypeScript",
+    "template",
+    "cli"
+  ],
+  "bugs": {
+    "url": "https://github.com/mm-ts-lib/vuets/issues"
+  },
+  "homepage": "https://github.com/mm-ts-lib/vuets#readme"
 }
