@@ -1,6 +1,6 @@
 {
   "name": "@tslib/vuets",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TypeScript-based Vue",
   "main": "bin/index.js",
   "author": "ZhangChao",
